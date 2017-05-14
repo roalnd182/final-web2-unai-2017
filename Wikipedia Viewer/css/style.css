@@ -1,0 +1,61 @@
+body {
+    background-color: #9e2a23;
+    color: #ffd185;
+    font-family: "Ubuntu Light", sans-serif;
+    padding: 4%;
+    text-align: center;
+}
+
+p {
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+input {
+    margin: 10px;
+}
+
+#search-form {
+    margin-bottom: 40px;
+}
+
+a {
+    color: #ffd185;
+}
+
+input {
+    padding: 5px;
+    border: none;
+    background-color: #ffd185;
+}
+
+#query-field {
+    width: 260px;
+    margin: 20px 5px;
+    color: #9e2a23;
+
+}
+
+#submit-button {
+    padding: 10px 30px;
+    font-family: "Ubuntu Light", sans-serif;
+    color: #9e2a23;
+}
+
+.item {
+    font-size: 20px;
+    display: inline-block;
+    margin: 5px;
+    color: #9e2a23;
+    background: #ffd185;
+    padding: 8px;
+    width: 25%;
+}
+
+.description-text {
+    font-size: 14px;
+}
+
+#display {
+    margin-top: 20px;
+}
